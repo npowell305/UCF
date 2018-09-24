@@ -1,0 +1,92 @@
+{
+	"name": [
+		"Nick",
+		"Anatasia",
+		"Antwann",
+		"Justice",
+		"Joanna",
+		"Sarah",
+		"Nyjah"
+	],
+	"occupation": [
+		"Designer",
+		"Programmer",
+		"Rapper",
+		"Billionaire CEO",
+		"Influencer",
+		"Esports Athlete",
+		"Actor"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# this #item#, but it was #cursed#. So they #embarked# on a #trip# to #get rid of# the #evil# as our #hero#."
+	],
+	"always": [
+		"never",
+		"rarely",
+		"sometimes",
+		"habitually",
+		"invariably"
+	],
+	"expecting": [
+		"anticipating",
+		"imagining",
+		"awaiting",
+		"contemplating"
+	],
+	"item": [
+		"sword",
+		"",
+		"gun",
+		"laser",
+		"necklace",
+		"crown",
+		"watch",
+		"",
+		"ring"
+	],
+	"cursed": [
+		"ill-fated",
+		"doomed",
+		"damned",
+		"ill-starred",
+		"jinxed",
+		"blighted"
+	],
+	"embarked": [
+		"commenced",
+		"undertake",
+		"began",
+		"started",
+		"ventured"
+	],
+	"evil": [
+		"corrupt",
+		"vile",
+		"malicious",
+		"immoral",
+		"wicked",
+		"iniquitous"
+	],
+	"hero": [
+		"champion",
+		"victor",
+		"demigod",
+		"protagonist",
+		"knight"
+	],
+	"trip": [
+		"",
+		"expedition",
+		"trek",
+		"",
+		"journey",
+		"voyage",
+		"jaunt"
+	],
+	"get rid of": [
+		"clear",
+		"purge",
+		"strip",
+		"free"
+	]
+}
